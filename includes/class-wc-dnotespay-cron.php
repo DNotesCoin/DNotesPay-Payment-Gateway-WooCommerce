@@ -2,8 +2,8 @@
 /*
  * DNotes checking payments class
  *
- * Author: EcDev Studio
- * Author URI: https://www.ecdevstudio.com/
+ * Author: DNotes Global, Inc.
+ * Author URI: https://dnotesglobal.com/
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
