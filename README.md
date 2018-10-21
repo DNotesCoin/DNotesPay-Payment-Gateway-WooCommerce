@@ -7,7 +7,7 @@
 * WooCommerce Free Plugin 
 Available Here: https://wordpress.org/plugins/woocommerce/
 
-## Installation
+# Installation
 
 Download the DNotesPay Payment Gateway Plugin for WooCommerce
 https://github.com/DNotesCoin/dnotespay_payment_gateway_woocommerce/releases
