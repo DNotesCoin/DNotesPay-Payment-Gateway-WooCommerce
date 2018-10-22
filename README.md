@@ -21,5 +21,5 @@ Click Install, and Activate the plugin.
 In your wordpress administration page, click WooCommerce > Settings. 
 Then click Payments at the top. 
 Find DNotes in the list of payment options and click on it. 
-Enter your DNotes payment addresses that you wish to receive payments to. 
-CLick Save. 
+Check Enable DNotes Gateway. Enter your DNotes payment addresses that you wish to receive payments to. 
+CLick Save Changes. 
